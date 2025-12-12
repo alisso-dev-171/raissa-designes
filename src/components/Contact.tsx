@@ -5,12 +5,10 @@ import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import InstagramIcon from '@mui/icons-material/Instagram';
-import EmailIcon from '@mui/icons-material/Email';
 import { Stack } from '@mui/material';
 
 const WHATSAPP_LINK = 'https://wa.me/';
 const INSTAGRAM_LINK = 'https://www.instagram.com/16raissacruz';
-const EMAIL_ADDRESS = 'SEU_EMAIL_AQUI';
 
 function Contact() {
 
