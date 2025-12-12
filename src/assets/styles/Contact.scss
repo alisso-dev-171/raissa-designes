@@ -1,0 +1,24 @@
+.contact_wrapper {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+
+  svg {
+    font-size: 1.2em;
+    vertical-align: middle;
+    margin-right: 5px;
+  }
+}
+
+
+.contact_wrapper .subtitle {
+	font-size: 19px;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+
+
+.contact_wrapper .info-text {
+	font-size: 13px;
+	margin-top: 10px;
+}
